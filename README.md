@@ -17,4 +17,4 @@ By mixing and matching these presets for all eight sections, we can make a varie
                                   X(LNR)Y
                                   X(TTT)Y
                                    (BBB)
-https://github.com/itayarcobi/c_plusplus_task_1/issues/1#issue-827659472
+![110629319-b66eba00-81ac-11eb-86b0-8fd4a0ee136d](https://user-images.githubusercontent.com/74408266/110631079-d1dac480-81ae-11eb-978e-38b5f3b5e952.png)
